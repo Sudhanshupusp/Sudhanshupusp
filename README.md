@@ -16,8 +16,8 @@
 <!-- ![border-seperator](assets/borderseparator.gif) -->
 
 <!-- Project link -->
-### **Project :**
-* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=008080&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg)
+### **Projects :**
+* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=158684&left=true&vCenter=true&size=20&width=100&height=20&lines=SensAI)](https://git.io/typing-svg)
 
 
 <!-- Technologies i know -->
@@ -74,5 +74,5 @@
 
 <!-- Quotes -->
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
