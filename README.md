@@ -17,7 +17,7 @@
 
 <!-- Project link -->
 ### **Projects :**
-* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=158684&left=true&vCenter=true&size=20&width=100&height=20&lines=SensAI)](https://git.io/typing-svg)
+* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=158684&left=true&vCenter=true&size=20&width=100&height=20&lines=GuruAI)](https://git.io/typing-svg)
 
 
 <!-- Technologies i know -->
